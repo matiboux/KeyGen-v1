@@ -1,4 +1,4 @@
-# KeyGen v1.0
+# KeyGen v1.0.1
 
 **KeyGen** is an *open source random password generator*.  
 It has been created on July 30, 2014.
@@ -14,7 +14,7 @@ KeyGen v2 is available and work along with [Oli](https://github.com/OliFramework
 >  \- Mati
 
 You can also host your own version on your webserver.  
-[Download the latest release](https://github.com/matiboux/KeyGen/releases/latest), extract the files and put them on your web server. Once this is all done, open your browser and type the URL to your hosted KeyGen.
+[Download the latest release](https://github.com/matiboux/KeyGen-v1/releases/latest), extract the files and put them on your web server. Once this is all done, open your browser and type the URL to your hosted KeyGen.
 
 **Enjoy generating your own keygens!**
 
